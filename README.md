@@ -1,4 +1,7 @@
-index.html
+Repository
+├── index.html
+├── style.css
+├── script.js
 const products = [
   {
     name: "壓克力立牌",
